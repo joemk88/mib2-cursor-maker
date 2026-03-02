@@ -1,4 +1,5 @@
-##MIB2 2D Cursor Maker
+## MIB2 2D Cursor Maker
+
 This is a simple GUI tool for creating custom navigation cursors for Audi/VW MIB2 systems using a transparent PNG (builds objects.cff automatically).
 
 This project automates the full workflow required to build a valid `objects.cff` file — no manual hex editing or reverse engineering required.
