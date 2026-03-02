@@ -7,6 +7,9 @@ This project automates the full workflow required to build a valid `objects.cff`
 Originally developed through reverse engineering of the MIB2 cursor format, this tool converts a user-provided image into a working in-car navigation cursor.
 
 
+![DemoGIF](https://github.com/user-attachments/assets/feae3c30-ba6d-413e-aba5-6bb9bac06fea)
+
+
 ## How It Works
 
 MIB2 navigation cursors are stored inside an `objects.cff` container.
